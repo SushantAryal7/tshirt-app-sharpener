@@ -1,0 +1,15 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box div{
+    margin:10px;
+}
+
+.h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
